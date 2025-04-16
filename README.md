@@ -62,6 +62,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 - Apply **Lasso Regression** for feature selection.
 - Experiment with **Polynomial Regression** to capture non-linearity.
+- Use XGBoost in Predicting the House Prices.
 - Add **Cross-Validation** to improve model robustness.
 - Normalize features to improve Ridge Regression performance.
 
