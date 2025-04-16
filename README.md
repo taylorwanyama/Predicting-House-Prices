@@ -53,7 +53,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/taylorwanyama/Predicting-House-Prices.git
+   git clone https://github.com/taylorwanyama/Predicting-House-Prices/blob/main/Predicting%20House%20Prices%20final%20(1).ipynb
    ```
 2. Open the Jupyter Notebook and run the cells sequentially.
 3. Modify parameters and visualize results for deeper analysis.
